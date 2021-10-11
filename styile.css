@@ -1,0 +1,70 @@
+body{
+    text-align: center;
+    margin: 0;
+    padding-top: 800px;
+    background: rgb(255, 0, 157);
+    
+}
+.rice{
+    border-radius: 50%;
+}
+h1{
+    font-family:Helvetica;
+}
+#name{
+    font-family: fantasy;
+    font-weight: 1000;
+}
+h2{
+    font-family:Geneva;
+}
+#cooker{
+    display: table;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(rgb(0, 217, 255)0%,rgb(255, 0, 157)100%);
+    bottom: 0;
+}
+#jazz{
+    height:6px;
+    width: 70px;
+    background-color: black;
+    margin:8px auto;
+}
+#bio{
+
+    background: linear-gradient(rgb(255, 0, 157)100%,rgb(0, 217, 255)0%);
+}
+.cool{
+ list-style: none; 
+ position: fixed;
+ z-index: 975689546;  
+ cursor:pointer;
+ top: 10px;
+ right: 30px;
+ 
+}
+.i{
+    float: left;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+    font-size:20px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color:aquamarine;
+}
+a{
+    text-decoration: none;
+    color: royalblue;
+}
+a:visited{
+    color:sandybrown;
+}
+a:link{
+    color:royalblue;
+}
+#blues h2{
+    display: inline;
+}
